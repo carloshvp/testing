@@ -9,6 +9,12 @@ a = 1
 b = 2
 c = 4
 print(a+b+c)
+
+
+def add(a, b):
+    return a+b
+
+
 # Third additional change to see if the new commit is correctly linked in Github and correctly name shown
 # Change one without push
 # Second change
